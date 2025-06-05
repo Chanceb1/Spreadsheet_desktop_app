@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Spreadsheet>
+  <Cell>
+    <Name>A1</Name>
+    <Text>14</Text>
+  </Cell>
+  <Cell>
+    <Name>B2</Name>
+    <Text>12</Text>
+    <BGColor>4294902015</BGColor>
+  </Cell>
+  <Cell>
+    <Name>A4</Name>
+    <Text>=B2+2</Text>
+  </Cell>
+  <Cell>
+    <Name>B4</Name>
+    <Text>=A1/3</Text>
+  </Cell>
+  <Cell>
+    <Name>D7</Name>
+    <Text>=A1+B2</Text>
+  </Cell>
+</Spreadsheet>
