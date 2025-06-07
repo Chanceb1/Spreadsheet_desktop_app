@@ -2,6 +2,20 @@
 
 A Windows Forms spreadsheet application built with C# that supports basic spreadsheet functionality including formula evaluation, cell dependencies, and undo/redo capabilities.
 
+<div align="center">
+
+| Main Interface | File Save/Load |
+|:--------------:|:------------------:|
+| ![Main Spreadsheet Interface](images/Spreadsheet1.png) | ![File Save Load Example](images/Spreadsheet2.png) |
+| Interactive 26x50 grid with column headers (A-Z) and row numbers. Clean Windows Forms interface with menu bar for file operations and editing commands. | Demonstrates file save and load functionality with XML format. Image also shows formula evaluations in cells with calculated results. |
+
+| **Color Customization** | **Edit Functionality** |
+|:----------------------:|:------------------:|
+| ![Background Color Features](images/Spreadsheet3.png) | ![Undo Redo Edit Features](images/Spreadsheet4.png) |
+| Background color customization for individual cells or selected ranges. Right-click context menu provides easy access to color options. | Demonstrates undo and redo functionality for edit operations. Shows how changes to cell values and formatting can be easily reversed or restored. |
+
+</div>
+
 ## How to Run
 
 To run the application (Windows 10/11 devices):
