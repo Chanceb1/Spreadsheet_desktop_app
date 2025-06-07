@@ -2,6 +2,14 @@
 
 A Windows Forms spreadsheet application built with C# that supports basic spreadsheet functionality including formula evaluation, cell dependencies, and undo/redo capabilities.
 
+## How to Run
+
+To run the application (Windows 10/11 devices):
+
+1. Navigate to the application directory/folder
+2. Double-click the `Spreadsheet.exe` executable
+3. The application will launch and open the main spreadsheet interface
+
 ## Features
 
 - Interactive spreadsheet grid with 26 columns (A-Z) and 50 rows
