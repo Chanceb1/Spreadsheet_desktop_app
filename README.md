@@ -56,7 +56,3 @@ The application handles various error cases:
 - `ExpressionTree_Demo/`: Expression tree evaluation demo
 - `SpreadsheetTests/`: Unit tests
 - `Spreadsheet/`: Windows Forms UI application
-
-## Dependencies
-
-- StyleCop.Analyzers (for code style enforcement)
